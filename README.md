@@ -22,6 +22,7 @@ API project structure:
 ├─── shared/
 ├────── utilities.php - file that will return pagination array.
 
+
 Application(Client) structure:
 ├─ app/
 ├─── assets/
